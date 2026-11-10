@@ -1,0 +1,5 @@
+estrategia,acertos,total_testes,retrabalho,tempo_s,tempo_min,modelo,versao,temperatura,data,inicio_utc,fim_utc,status
+01-direto,12,12,0,11.213,0.1869,GPT-6 / Codex,snapshot nao exposto pela interface,nao exposta,2026-11-10,2026-11-10T13:22:24Z,2026-11-10T13:22:35Z,aprovado
+02-few-shot,12,12,0,13.589,0.2265,GPT-6 / Codex,snapshot nao exposto pela interface,nao exposta,2026-11-10,2026-11-10T13:22:41Z,2026-11-10T13:22:55Z,aprovado
+03-contexto,12,12,0,13.006,0.2168,GPT-6 / Codex,snapshot nao exposto pela interface,nao exposta,2026-11-10,2026-11-10T13:22:55Z,2026-11-10T13:23:08Z,aprovado
+04-criterios,12,12,0,15.371,0.2562,GPT-6 / Codex,snapshot nao exposto pela interface,nao exposta,2026-11-10,2026-11-10T13:23:08Z,2026-11-10T13:23:23Z,aprovado

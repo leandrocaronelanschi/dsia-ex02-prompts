@@ -1,0 +1,12 @@
+{
+  "inicio_monotonico": 420.242664644,
+  "inicio_utc": "2026-11-10T13:23:08Z",
+  "avaliacoes": 1,
+  "ultimo_retorno": 0,
+  "total_testes": 12,
+  "acertos_primeira": 12,
+  "retrabalho": 0,
+  "tempo_total_s": 15.371,
+  "fim_utc": "2026-11-10T13:23:23Z",
+  "sha256_primeira": "2aa99bffe6bacaf13c79c798c6730d1de6927588285c0dde0db68d7cfaf2b76d"
+}

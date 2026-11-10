@@ -1,0 +1,1 @@
+Implemente em Python a função pura classificar_vigencia(fim, referencia) para classificar o término da vigência de uma parceria em vencido, vence_hoje, a_vencer ou vigente. As entradas são datas ISO e o horizonte de alerta é 30 dias. Use apenas a biblioteca padrão e rejeite entradas inválidas com ValueError.
